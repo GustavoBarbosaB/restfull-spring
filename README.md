@@ -1,6 +1,6 @@
 # RestFull Service
 
-***Este é um serviço RestFull que é capaz de fazer POST e GET utilizando o Spring Framework 5.0.***
+***Este é um serviço RestFull que é capaz de fazer GET, POST, PUT e DELETE utilizando o Spring Framework 5.0.***
 
 ## Exemplo do JSON retornado na API:
 ```json
